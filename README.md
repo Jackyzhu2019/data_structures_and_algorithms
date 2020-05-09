@@ -10,4 +10,6 @@ Some records about encountered problems related to data structures and algorithm
   	=> MaxSum_Product_subArray_problem
   	=> Recursion_Problem
   	=> SubSequence_problem
+	=> binary_tree_and_recursive
+	=> Linked_list
   	=> Others
